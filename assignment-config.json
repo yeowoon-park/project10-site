@@ -1,0 +1,9 @@
+{
+  "assignment_schema_version": "2026_05_ad_arm_remote_v1",
+  "default_ad_architecture_arm": "interstitial_every_1_game",
+  "ad_architecture_probs": {
+    "no_ad": 0.333333,
+    "interstitial_every_1_game": 0.333333,
+    "interstitial_every_2_games": 0.333334
+  }
+}
